@@ -9,4 +9,6 @@ public class PrimaryController {
     private void switchToSecondary() throws IOException {
         App.setRoot("secondary");
     }
+
+    //to-do add more methods to handle user interactions and update the UI as needed - matthew
 }
