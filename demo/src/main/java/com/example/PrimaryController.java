@@ -11,4 +11,6 @@ public class PrimaryController {
         App.setRoot("secondary");
         System.out.print("Switched to secondary.");
     }
+
+    //to-do add more methods to handle user interactions and update the UI as needed - matthew
 }
